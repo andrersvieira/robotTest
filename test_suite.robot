@@ -4,7 +4,7 @@ Library    Collections
 Resource    apiCalls.robot
 Resource    actions.robot
 Resource    screenChecks.robot
-Library    ExpectedShoppingCart
+Library    ./lib/ExpectedShoppingCart.py
 
 
 *** Variables ***

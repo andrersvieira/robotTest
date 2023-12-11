@@ -12,6 +12,8 @@ Install the required libraries:
 Bash
 pip install robotframework
 pip install robotframework-seleniumLibrary
+pip install robotframework-requests
+
 
 #Running the Tests
 Open a terminal window and navigate to the directory containing the test suite file (test_suite.robot).
